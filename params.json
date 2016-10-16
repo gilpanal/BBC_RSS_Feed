@@ -1,0 +1,6 @@
+{
+  "name": "BBC RSS Feed",
+  "tagline": "Android native app to retrieve information from BBC (XML format)",
+  "body": "# BBC_RSS_Feed\r\nAndroid native app to retrieve information from BBC news RSS(XML format)\r\n\r\nSource:\r\nhttp://feeds.bbci.co.uk/news/world/rss.xml\r\n\r\nThis project is based in 2 tutorials mainly:\r\n- http://www.ibm.com/developerworks/xml/tutorials/x-androidrss/x-androidrss.html\r\n- http://www.androidhive.info/2012/02/android-custom-listview-with-image-and-text/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
