@@ -1,4 +1,4 @@
-package bbcfeed.jose.com.bbc_rss_feed;
+package bbcfeed.jose.com.news_rss_feed;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

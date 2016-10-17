@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="bbcfeed.jose.com.bbc_rss_feed.OpenWebView">
+    tools:context="bbcfeed.jose.com.news_rss_feed.OpenWebView">
 
     <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/webview"

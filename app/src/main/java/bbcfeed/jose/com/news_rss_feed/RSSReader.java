@@ -1,4 +1,4 @@
-package bbcfeed.jose.com.bbc_rss_feed;
+package bbcfeed.jose.com.news_rss_feed;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -33,7 +33,7 @@ public class RSSReader extends AppCompatActivity implements AdapterView.OnItemCl
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        toolbar.setTitle("");
+        //toolbar.setTitle("");
         setSupportActionBar(toolbar);
 
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
